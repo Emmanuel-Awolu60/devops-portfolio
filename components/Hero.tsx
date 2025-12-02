@@ -50,7 +50,7 @@ const Hero: React.FC = () => {
               href="#projects"
               className="inline-flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-500 md:text-lg transition-all hover:shadow-lg hover:shadow-blue-500/20"
             >
-              View Projects
+              {/* View Projects */}
               <ArrowRight className="ml-2 w-5 h-5" />
             </a>
             <a
